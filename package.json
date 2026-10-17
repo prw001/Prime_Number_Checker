@@ -1,0 +1,17 @@
+{
+  "name": "prime_number_checker",
+  "version": "1.0.0",
+  "description": "A script that checks if a provided number is prime",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "Paul Winter",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
